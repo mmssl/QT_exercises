@@ -1,0 +1,8 @@
+# ninja log v5
+2	42	1713267096165523538	parent_child_autogen/timestamp	3200ba9e0260720f
+2272	2479	1713267099278679776	parent_child	27e3bd6b26833286
+2	42	1713267096165523538	parent_child_autogen/mocs_compilation.cpp	3200ba9e0260720f
+2	42	1713267096165523538	/home/mmssl/Project/Qt/parent_child/build/Desktop-Debug/parent_child_autogen/timestamp	3200ba9e0260720f
+2	42	1713267096165523538	/home/mmssl/Project/Qt/parent_child/build/Desktop-Debug/parent_child_autogen/mocs_compilation.cpp	3200ba9e0260720f
+69	97	1713266936958386207	CMakeFiles/parent_child.dir/parent_child_autogen/mocs_compilation.cpp.o	7b1c71eb8ff4d70e
+44	2272	1713267099068669286	CMakeFiles/parent_child.dir/main.cpp.o	1562d63679967d65

@@ -1,0 +1,25 @@
+# ninja log v5
+3	431	1713256248682434435	qobject_autogen/timestamp	2fb6c7cf19085a89
+3	431	1713256248682434435	qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+3	431	1713256248682434435	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/timestamp	2fb6c7cf19085a89
+3	431	1713256248682434435	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+432	2574	1713256250838577113	CMakeFiles/qobject.dir/qobject_autogen/mocs_compilation.cpp.o	e71344e71e171d48
+3	46	1713256290459087177	qobject_autogen/timestamp	2fb6c7cf19085a89
+3	46	1713256290459087177	qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+3	46	1713256290459087177	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/timestamp	2fb6c7cf19085a89
+3	46	1713256290459087177	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+47	2300	1713256292798228941	CMakeFiles/qobject.dir/main.cpp.o	dcf81c60a340a799
+4	53	1713256311239322386	qobject_autogen/timestamp	2fb6c7cf19085a89
+4	53	1713256311239322386	qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+4	53	1713256311239322386	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/timestamp	2fb6c7cf19085a89
+4	53	1713256311239322386	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+56	2206	1713256313489452910	CMakeFiles/qobject.dir/test.cpp.o	a1b4ae94d5f4596e
+2206	2426	1713256313714465932	qobject	41c4ee445b8aaf69
+4	49	1713257099713755101	qobject_autogen/timestamp	2fb6c7cf19085a89
+4	49	1713257099713755101	qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+4	49	1713257099713755101	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/timestamp	2fb6c7cf19085a89
+4	49	1713257099713755101	/home/mmssl/Project/Qt/qobject/build/Desktop-Debug/qobject_autogen/mocs_compilation.cpp	2fb6c7cf19085a89
+51	2346	1713257102479785783	CMakeFiles/qobject.dir/main.cpp.o	dcf81c60a340a799
+2346	2557	1713257102696788181	qobject	41c4ee445b8aaf69
+2	23	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+23	29	0	clean	a31eedcededa8236
