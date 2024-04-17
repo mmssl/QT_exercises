@@ -1,0 +1,18 @@
+# ninja log v5
+2	628	1713359606313981853	untitled_autogen/timestamp	6b2f2b9caec5d6f2
+2	628	1713359606313981853	untitled_autogen/mocs_compilation.cpp	6b2f2b9caec5d6f2
+630	4448	1713359610133798267	CMakeFiles/untitled.dir/mainwindow.cpp.o	48c6740692f22662
+2	628	1713359606313981853	/home/mmssl/Project/loginApp_QT/untitled/build/Desktop-Debug/untitled_autogen/timestamp	6b2f2b9caec5d6f2
+2	628	1713359606313981853	/home/mmssl/Project/loginApp_QT/untitled/build/Desktop-Debug/untitled_autogen/mocs_compilation.cpp	6b2f2b9caec5d6f2
+630	4179	1713359609864811172	CMakeFiles/untitled.dir/main.cpp.o	6d89e17696e3e8ba
+629	4218	1713359609902809348	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	3ee431f044979727
+4448	4849	1713359610540778751	untitled	8544e1ece4cb2678
+4	593	1713360180657071886	untitled_autogen/timestamp	6b2f2b9caec5d6f2
+4	593	1713360180657071886	untitled_autogen/mocs_compilation.cpp	6b2f2b9caec5d6f2
+4	593	1713360180657071886	/home/mmssl/Project/loginApp_QT/untitled/build/Desktop-Debug/untitled_autogen/timestamp	6b2f2b9caec5d6f2
+4	593	1713360180657071886	/home/mmssl/Project/loginApp_QT/untitled/build/Desktop-Debug/untitled_autogen/mocs_compilation.cpp	6b2f2b9caec5d6f2
+594	3599	1713360183660967762	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	3ee431f044979727
+594	3819	1713360183882960074	CMakeFiles/untitled.dir/main.cpp.o	6d89e17696e3e8ba
+594	4606	1713360184669932836	CMakeFiles/untitled.dir/secdialog.cpp.o	86e65b7b7fcbe54d
+594	4877	1713360184940923458	CMakeFiles/untitled.dir/mainwindow.cpp.o	48c6740692f22662
+4877	5251	1713360185318910384	untitled	286613e20f524a60
