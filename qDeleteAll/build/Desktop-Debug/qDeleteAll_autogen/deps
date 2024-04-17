@@ -1,12 +1,12 @@
-parent_child_autogen/timestamp: \
-	/home/mmssl/Project/Qt/parent_child/CMakeLists.txt \
-	/home/mmssl/Project/Qt/parent_child/build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake \
-	/home/mmssl/Project/Qt/parent_child/build/Desktop-Debug/CMakeFiles/3.29.2/CMakeCXXCompiler.cmake \
-	/home/mmssl/Project/Qt/parent_child/build/Desktop-Debug/CMakeFiles/3.29.2/CMakeSystem.cmake \
-	/home/mmssl/Project/Qt/parent_child/build/Desktop-Debug/parent_child_autogen/moc_predefs.h \
-	/home/mmssl/Project/Qt/parent_child/main.cpp \
-	/home/mmssl/Project/Qt/parent_child/test.cpp \
-	/home/mmssl/Project/Qt/parent_child/test.h \
+qDeleteAll_autogen/timestamp: \
+	/home/mmssl/Project/Qt/qDeleteAll/CMakeLists.txt \
+	/home/mmssl/Project/Qt/qDeleteAll/build/Desktop-Debug/.qtc/package-manager/auto-setup.cmake \
+	/home/mmssl/Project/Qt/qDeleteAll/build/Desktop-Debug/CMakeFiles/3.29.2/CMakeCXXCompiler.cmake \
+	/home/mmssl/Project/Qt/qDeleteAll/build/Desktop-Debug/CMakeFiles/3.29.2/CMakeSystem.cmake \
+	/home/mmssl/Project/Qt/qDeleteAll/build/Desktop-Debug/qDeleteAll_autogen/moc_predefs.h \
+	/home/mmssl/Project/Qt/qDeleteAll/main.cpp \
+	/home/mmssl/Project/Qt/qDeleteAll/test.cpp \
+	/home/mmssl/Project/Qt/qDeleteAll/test.h \
 	/usr/include/asm-generic/errno-base.h \
 	/usr/include/asm-generic/errno.h \
 	/usr/include/asm/errno.h \

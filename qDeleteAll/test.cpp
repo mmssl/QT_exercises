@@ -8,10 +8,5 @@ Test::Test(QObject *parent) : QObject{parent}
 
 Test::~Test()
 {
-    foreach (QObject* child, children()) {
-        qInfo() << this << " - child - " << child;
-    }
-
-
     qInfo() << this << "Deconstructed" << parent();
 }
